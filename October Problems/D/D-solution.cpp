@@ -18,8 +18,8 @@ double conv (string s, int b)
 
 int main ()
 {
-    //freopen ("D.in", "r", stdin);
-    //freopen ("D.out", "w", stdout);
+    freopen ("D.in", "r", stdin);
+    freopen ("D.out", "w", stdout);
 	int tt;
 	cin >> tt;
 	for (int cases = 0; cases < tt; cases++)
